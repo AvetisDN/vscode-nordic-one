@@ -1,0 +1,27 @@
+{
+    "name": "nordic-one",
+    "publisher": "Avetis",
+    "displayName": "Nordic One",
+    "description": "Dark theme inspired by Nord palette",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "icon": "icons/revamp.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AvetisDN/github-revamp"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nordic One",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nordic-one.json"
+            }
+        ]
+    }
+}
