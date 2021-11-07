@@ -3,7 +3,7 @@
     "publisher": "Avetis",
     "displayName": "Nordic One",
     "description": "Dark theme inspired by Nord palette",
-    "version": "0.0.4",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -21,6 +21,11 @@
                 "label": "Nordic One",
                 "uiTheme": "vs-dark",
                 "path": "./themes/nordic-one.json"
+            },
+            {
+                "label": "Nordic Two",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nordic-two.json"
             }
         ]
     }
