@@ -22,11 +22,6 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/nordic-one.json"
             },
-            {
-                "label": "Nordic Two",
-                "uiTheme": "vs-dark",
-                "path": "./themes/nordic-two.json"
-            }
         ]
     }
 }
