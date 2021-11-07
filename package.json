@@ -7,10 +7,10 @@
     "engines": {
         "vscode": "^1.50.0"
     },
-    "icon": "icons/revamp.png",
+    "icon": "icons/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/AvetisDN/github-revamp"
+        "url": "https://github.com/AvetisDN/vscode-nordic-one"
     },
     "categories": [
         "Themes"
